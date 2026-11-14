@@ -17,7 +17,7 @@ The project covers:
 - A two-step idea (fruit type, then freshness) implemented as one network with two output heads
 - Evaluation with accuracy, F1, per-fruit performance, confusion matrices, inference latency and FPS
 - A local extension: our own photos of fresh and naturally overripe fruit on different backgrounds and lighting
-- A Streamlit app with Upload, Camera and Live tabs
+- A Streamlit app with Upload, Camera.
 
 
 ## Dataset
