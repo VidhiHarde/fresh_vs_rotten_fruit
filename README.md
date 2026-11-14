@@ -43,6 +43,7 @@ C. Old python notebook :
 ## How to run the app
 
 ### Option 1 : Using the app
+**Live app:** https://freshvsrottenfruit.streamlit.app/
 
 | Tab | What it does |
 |---|---|
