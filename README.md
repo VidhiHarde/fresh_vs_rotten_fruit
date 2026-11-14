@@ -84,3 +84,6 @@ You only need this if you change the data or the model. The trained weights are 
    10. Evaluation on your held-out own photos
    11. Save the model (`fruit_model.pth` and `labels.json`)
 6. Copy the two saved files into the repository folder next to `app.py`.
+
+
+**NOTE : The drive link contains important files (dataset) required in order to execute the python notebook successfully, without it the model won't get trained as there will be no access to the dataset. So it is recommended to access the python notebook through the drive link and not manually from the repository.**
