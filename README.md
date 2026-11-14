@@ -36,7 +36,7 @@ A. 3 folders of dataset :
 B. 1 python notebook :  
   Contains complete, well-organized, and well-commented code.
 
-C. Old python notebook :
+C. Old python notebook : 
   Not to be used anywhere, it's just for the reference to the challenges that we faced during our project.
 
 
@@ -54,7 +54,7 @@ The result shows **Fruit** and **Status**, followed by a confidence bar for each
 For best results: put **one fruit** in the centre of the photo, fairly close, with good lighting and a plain background.
 
 ### Option 2: Using the google drive link 
-# Steps 
+#### Steps 
 1. Go to the drive link : https://drive.google.com/drive/folders/1_98NFG5QR_Ecy4ukxOxm6dFZuIR5Sg8r?usp=sharing
 2. Open the google colab notebook named as **"fresh_vs_rotten_fruit_new.ipynb"**
 3. Run the cells, check if the drive is mounted properly and the zip file is extracted without any errors.
