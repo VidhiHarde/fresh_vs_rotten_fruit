@@ -33,10 +33,10 @@ A. 3 folders of dataset :
   2. fresh_vs_rotten_my_dataset : This is the mini version of our main dataset with folders and classes being in the same format, the photos in it are taken in     different backgrounds and under different lighting to make the model learn differentiating fruits on the basis of different backgrounds.
   3. fresh_vs_rotten_my_test_dataset : Contains the final **test images** through which we do our final testings.
 
-B. 1 python notebook 
+B. 1 python notebook :  
   Contains complete, well-organized, and well-commented code.
 
-C. Old python notebook 
+C. Old python notebook :
   Not to be used anywhere, it's just for the reference to the challenges that we faced during our project.
 
 
