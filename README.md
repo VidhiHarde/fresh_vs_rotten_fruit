@@ -23,9 +23,10 @@ The project covers:
 ## Dataset
 
 The data has two parts. The full dataset is **not** stored in this repository because of its size.
-This is the drive link for our dataset : https://drive.google.com/drive/folders/1_98NFG5QR_Ecy4ukxOxm6dFZuIR5Sg8r?usp=sharing
-The drive contains 
 
+This is the drive link for our dataset : https://drive.google.com/drive/folders/1_98NFG5QR_Ecy4ukxOxm6dFZuIR5Sg8r?usp=sharing
+
+The drive contains :
 A. 3 folders of dataset : 
   1. fresh_vs_rotten_dataset.zip : The **main** dataset of the model, this contains the maximum number of images through which the model has been trained. It       contains 3 folder (`train(70%)`, `test(15%)`, `val(15%)`) and inside each there are 8 class folders (`fresh_apple`, `fresh_banana`, `fresh_mango`,                `fresh_orange`, `rotten_apple`, `rotten_banana`, `rotten_mango`, `rotten_orange`). Most images are studio shots with a plain white background.
   2. fresh_vs_rotten_my_dataset : This is the mini version of our main dataset with folders and classes being in the same format, the photos in it are taken in     different backgrounds and under different lighting to make the model learn differentiating fruits on the basis of different backgrounds.
